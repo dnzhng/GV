@@ -7,7 +7,7 @@ section div {
 }
 
 #splash {
-	background: url(img/logo.png) no-repeat center center fixed;
+	background: url(../img/logo.png) no-repeat center center fixed;
 	height: 100%;
 	width: 100%;
 	margin: 0 auto;
@@ -20,7 +20,7 @@ section div {
 
 #dad2 {
 	background-color: black;
-	background: url(img/dad2.jpg) no-repeat center center;
+	background: url(../img/dad2.jpg) no-repeat center center;
 	height: 800px;
 	width: 100%;
 	background-size: 100% 100%;
