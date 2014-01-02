@@ -1,0 +1,68 @@
+body, html {
+	height: 100%;
+}
+section div {
+	float: left;
+	clear: none;
+}
+
+#splash {
+	background: url(/img/logo.png) no-repeat center center fixed;
+	height: 100%;
+	width: 100%;
+	margin: 0 auto;
+	position: relative;
+}
+
+#main {
+	width: 100%
+}
+
+#dad2 {
+	background-color: black;
+	background: url(/img/dad2.jpg) no-repeat center center;
+	height: 800px;
+	width: 100%;
+	background-size: 100% 100%;
+	padding: 0;
+	position: relative;
+
+}
+
+#dad2 h1 {
+	color: white;
+	font-weight: 300;
+	font-size: 4em;
+	line-height: 750px;
+}
+
+#tagline {
+	background-color: white;
+}
+
+#tagline h1{
+	color: #235F9C;
+	font-size: 8em;
+	font-weight: 100;
+	padding: 20px;
+	margin: 20px;
+}
+
+#info {
+	margin: 0 auto;
+	padding-bottom: 50px;
+}
+
+#feet {
+	background-color: black;
+}
+
+#feet a, a:hover {
+	color: #383838;
+	text-decoration: none;
+}
+
+#feet p {
+	margin: 30px;
+	color: #383838;
+}
