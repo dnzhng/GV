@@ -31,7 +31,7 @@ section div {
 
 #dad2 h1 {
 	color: white;
-	font-weight: 300;
+	font-weight: 100;
 	font-size: 4em;
 	line-height: 750px;
 }
@@ -64,5 +64,6 @@ section div {
 
 #feet p {
 	margin: 30px;
+	padding-top: 10px;
 	color: #383838;
 }
